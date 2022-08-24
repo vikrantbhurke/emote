@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emote/static/css/main.5746d4f8.css",
+    "main.js": "/emote/static/js/main.c0edec10.js",
+    "static/js/787.3263b419.chunk.js": "/emote/static/js/787.3263b419.chunk.js",
+    "index.html": "/emote/index.html",
+    "main.5746d4f8.css.map": "/emote/static/css/main.5746d4f8.css.map",
+    "main.c0edec10.js.map": "/emote/static/js/main.c0edec10.js.map",
+    "787.3263b419.chunk.js.map": "/emote/static/js/787.3263b419.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5746d4f8.css",
+    "static/js/main.c0edec10.js"
+  ]
+}
